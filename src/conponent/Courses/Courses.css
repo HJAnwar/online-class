@@ -1,0 +1,12 @@
+.courses-area{
+    display: flex;
+}
+.courses-container{
+    width: 75%;
+    border-right: 1px solid lightgray;
+   
+    margin-left: 50px;
+}
+.card-container{
+    padding-left: 20px;
+}

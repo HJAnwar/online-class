@@ -1,0 +1,21 @@
+.CoursesItem-container{
+    display: flex;
+}
+.img-container{
+    
+}
+.name-container{
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.buy-btn{
+    background-color:gold;
+    padding: 5px;
+    border-radius: 5px;
+    border:1px solid gold;
+    margin-left:70px;
+   margin-bottom: 10px;
+   cursor: pointer;
+}
