@@ -29,7 +29,7 @@ const Courses = () => {
                 }
             </div>
             <div className="card-container">
-                <h2>Order Summary</h2>
+                <h2 className="text-primary">Order Summary</h2>
                 <h5>Added Courses:{cart.length}</h5>
                 <p> Total Price: ${total}</p>
             </div>
